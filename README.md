@@ -49,7 +49,7 @@ Once we are in the Elixir shell, we can start sending messages to the C++ progra
 
 ~~~
 {:ok, s} = :enm.pair
-:enm.connect(s, "ipc:///tmp/ipc.test"
+:enm.connect(s, "ipc:///tmp/test.ipc")
 :enm.send(s, [<<1>> | Msgpax.pack!(["hey", "hoo"])])
 :enm.close
 ~~~
