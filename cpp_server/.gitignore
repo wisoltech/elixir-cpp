@@ -1,4 +1,4 @@
-cpp-server.pro.user
+cpp_server.pro.user
 moc_*
 *.o
 qrc_qml.cpp
