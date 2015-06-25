@@ -1,0 +1,2 @@
+%{"enm": {:git, "git://github.com/basho/enm.git", "9be99ead124dde41ae970425b160c5569453a6a8", []},
+  "msgpax": {:hex, :msgpax, "0.7.0"}}
