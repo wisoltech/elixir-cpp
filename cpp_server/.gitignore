@@ -1,0 +1,6 @@
+cpp-server.pro.user
+moc_*
+*.o
+qrc_qml.cpp
+Makefile
+cpp-server
